@@ -11,14 +11,14 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "products": {
-      "type": "json"
-    },
     "userName": {
       "type": "string"
     },
     "stripeSessionId": {
       "type": "string"
+    },
+    "products": {
+      "type": "json"
     }
   }
 }
